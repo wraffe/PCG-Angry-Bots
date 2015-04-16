@@ -13,4 +13,4 @@ Details of this game, the algorithms used within it, and the results of the expe
 
 This is an upload of a past project. This project is no longer being maintained.
 
-All code, other than the references mentioned above, was written by William Raffe.
+All code, other than the references mentioned above, was written by William Raffe
