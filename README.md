@@ -12,3 +12,5 @@ Machine learning player models utilize and IKVM (Java to C-sharp) conversion of 
 Details of this game, the algorithms used within it, and the results of the experiment can be found in the TCIAIG journal article " An Integrated Approach to Personalized Procedural Map Generation using Evolutionary Algorithms" and in the thesis "Personalized Procedural Map Generation in Games via Evolutionary Algorithms", both of which can be found at william-raffe.com
 
 This is an upload of a past project. This project is no longer being maintained.
+
+All code, other than the references mentioned above, was written by William Raffe.
